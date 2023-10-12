@@ -1,0 +1,10 @@
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    background-color: gray;
+}
+a:hover{
+    background-color: chartreuse;
+    /* padding: 2px; */
+}
+a{
+    padding: 20px;
+}

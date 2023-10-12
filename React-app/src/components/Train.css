@@ -1,0 +1,39 @@
+table{
+    margin-top: 30px;
+    border:1px solid black;
+    margin-left: 30px;
+    padding: 1em;
+}
+td{
+    margin-top: 30px;
+    border:1px solid black;
+    padding: 1em;
+}
+th{
+    margin-top: 30px;
+    border:1px solid black;
+    padding: 1em;
+}
+input{
+    margin-top: 20px;
+
+}
+.id{
+    margin-left: 30px;
+
+}
+li{
+    list-style: none;
+    padding: 9px;
+}
+.abs{
+    display: flex;
+    flex-direction: column;
+}
+.abs>button{
+    background-color: navy;
+    color: white;
+    width: 200px;
+    margin-left: 40%;    
+    margin-top: 20px;    
+}
